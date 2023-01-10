@@ -1,0 +1,25 @@
+*{
+    background-color: #F0F2F5;
+    margin: 0;
+}
+.facebook{
+    display: flex;
+    gap: 100px;
+    margin: 150px;
+    
+}
+.login-form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.login-form input{
+    display: flex;
+    background-color: white;
+    margin-bottom: 1em;
+    font-size: 17px;
+    padding: 18px;
+    border-radius: 5px;
+    border: 1px solid #F0F2F5;
+}
